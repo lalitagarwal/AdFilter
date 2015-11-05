@@ -1,0 +1,51 @@
+<!ENTITY status.tooltip         "Status:">
+<!ENTITY blocked.tooltip        "Blocked items on this page:">
+<!ENTITY filters.tooltip        "Most active filters:">
+
+<!ENTITY menuitem.label         "AdFilter Preferences">
+<!ENTITY menuitem.accesskey     "b">
+<!ENTITY toolbarbutton.label    "AdFilter">
+
+<!ENTITY context.image.label    "AdFilter: Block image">
+<!ENTITY context.object.label   "AdFilter: Block object">
+<!ENTITY context.frame.label    "AdFilter: Block frame">
+<!ENTITY context.media.label    "AdFilter: Block audio/video">
+<!ENTITY context.removeWhitelist.label  "AdFilter: Re-enable on this page">
+
+<!ENTITY sidebar.title          "Blockable items on current page">
+
+<!ENTITY sendReport.label       "Report issue on this page">
+<!ENTITY sendReport.accesskey   "R">
+<!ENTITY filters.label          "Filter preferences">
+<!ENTITY filters.accesskey      "F">
+<!ENTITY opensidebar.label      "Open blockable items">
+<!-- Note: This access key should usually be the same as closesidebar.accesskey. It is the same menu item with different label depending on whether the sidebar is currently open.-->
+<!ENTITY opensidebar.accesskey  "b">
+<!ENTITY closesidebar.label     "Close blockable items">
+<!-- Note: This access key should usually be the same as opensidebar.accesskey. It is the same menu item with different label depending on whether the sidebar is currently open.-->
+<!ENTITY closesidebar.accesskey "b">
+<!-- Note: the placeholder ?1? will be replaced by the domain name of the current page -->
+<!ENTITY whitelist.site.label   "Disable on ?1?">
+<!ENTITY whitelist.page.label   "Disable on this page only">
+<!ENTITY disable.label          "Disable everywhere">
+<!ENTITY options.label          "Options">
+<!ENTITY options.accesskey      "O">
+<!ENTITY contribute.label       "Contribute to AdFilter">
+
+<!ENTITY showintoolbar.label        "Show in toolbar">
+<!ENTITY showintoolbar.accesskey    "b">
+<!ENTITY showinstatusbar.label      "Show in status bar">
+<!ENTITY showinstatusbar.accesskey  "s">
+<!ENTITY showinaddonbar.label       "Show in add-on bar">
+<!ENTITY showinaddonbar.accesskey   "b">
+<!ENTITY objecttabs.label           "Show tabs on Flash and Java">
+<!ENTITY objecttabs.accesskey       "t">
+<!ENTITY hideplaceholders.label     "Hide placeholders of blocked elements">
+<!ENTITY hideplaceholders.accesskey "l">
+<!ENTITY counthits.label            "Count filter hits">
+<!ENTITY counthits.accesskey        "h">
+<!ENTITY sync.label                 "Sync AdFilter settings">
+<!ENTITY sync.accesskey             "c">
+
+<!ENTITY objecttab.title        "Block">
+<!ENTITY objecttab.tooltip      "Click here to block this object with AdFilter">

@@ -1,0 +1,42 @@
+<!ENTITY showintoolbar.accesskey "b">
+<!ENTITY showinstatusbar.accesskey "s">
+<!ENTITY whitelist.site.label "Disable on ?1?">
+<!ENTITY filters.label "Filter preferences">
+<!ENTITY disable.label "Disable everywhere">
+<!ENTITY showinaddonbar.label "Show in add-on bar">
+<!ENTITY objecttab.title "Block">
+<!ENTITY showinaddonbar.accesskey "b">
+<!ENTITY sync.accesskey "c">
+<!ENTITY objecttabs.label "Show tabs on Flash and Java">
+<!ENTITY objecttab.tooltip "Block this object with AdFilter">
+<!ENTITY menuitem.label "AdFilter Preferences">
+<!ENTITY sendReport.accesskey "R">
+<!ENTITY sendReport.label "Report issue on this page">
+<!ENTITY filters.accesskey "F">
+<!ENTITY whitelist.page.label "Disable on this page only">
+<!ENTITY context.image.label "AdFilter: Block image">
+<!ENTITY closesidebar.accesskey "b">
+<!ENTITY hideplaceholders.label "Hide placeholders of blocked elements">
+<!ENTITY opensidebar.label "Open blockable items">
+<!ENTITY options.accesskey "O">
+<!ENTITY contribute.label "Contribute to AdFilter">
+<!ENTITY toolbarbutton.label "AdFilter">
+<!ENTITY context.frame.label "AdFilter: Block frame">
+<!ENTITY counthits.label "Count filter hits">
+<!ENTITY blocked.tooltip "Blocked items on this page:">
+<!ENTITY opensidebar.accesskey "b">
+<!ENTITY showinstatusbar.label "Show in status bar">
+<!ENTITY status.tooltip "Status:">
+<!ENTITY sidebar.title "Blockable items on current page">
+<!ENTITY sync.label "Synchronise AdFilter settings">
+<!ENTITY options.label "Options">
+<!ENTITY context.object.label "AdFilter: Block object">
+<!ENTITY context.removeWhitelist.label "AdFilter: Re-enable on this page">
+<!ENTITY objecttabs.accesskey "t">
+<!ENTITY filters.tooltip "Most active filters:">
+<!ENTITY closesidebar.label "Close blockable items">
+<!ENTITY showintoolbar.label "Show in toolbar">
+<!ENTITY counthits.accesskey "h">
+<!ENTITY menuitem.accesskey "B">
+<!ENTITY context.media.label "AdFilter: Block audio/video">
+<!ENTITY hideplaceholders.accesskey "l">
